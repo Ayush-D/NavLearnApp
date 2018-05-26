@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationLearnApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="stock_market_basics">Stock Market Basics:</string>
+</resources>
