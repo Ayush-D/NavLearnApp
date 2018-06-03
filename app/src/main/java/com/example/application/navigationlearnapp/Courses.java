@@ -46,8 +46,7 @@ public class Courses extends AppCompatActivity {
         mImageUrls.add("https://www.tradebrains.in/wp-content/uploads/2017/05/most-common-scams-in-indian-stock-market.jpg");
         mNames.add("3 Most Common Scams in Indian Stock Market That You Should be Aware of");
 
-        //Image not found
-        mImageUrls.add("https://i.redd.it/0h2gm1ix6p501.jpg");
+        mImageUrls.add("https://www.tradebrains.in/wp-content/uploads/2017/04/What-is-the-minimum-money-I-need-to-start-stock-trading-in-India.jpg");
         mNames.add("What is the minimum money I need to start stock trading in India?");
 
         mImageUrls.add("https://www.tradebrains.in/wp-content/uploads/2017/05/why-people-lose-money-in-stock-market-cover.jpg");
